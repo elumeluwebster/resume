@@ -1,0 +1,5 @@
+# IDE Settings
+.vscode
+
+# dependecnies
+yarn.lock
